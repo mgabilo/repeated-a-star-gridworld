@@ -74,7 +74,7 @@ First, the start state is put into the OPEN priority queue. Elements in OPEN are
 their f-values; given state *s*,
 
 ```
-f(s) =h (s) + g(s)
+f(s) = h(s) + g(s)
 ```
 
 *h(s)* is an heuristic estimate of the distance between statesand the goal.
